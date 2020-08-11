@@ -1,0 +1,44 @@
+ul{
+	list-style-type: none;
+}
+li{
+font-family: Verdana, "Verdana Neue", Sans-serif ;
+float: right;
+display: block;
+
+}
+li a {
+  display: block;
+  color: #A798E3;
+  text-align: center;
+  padding: 6px;
+  text-decoration: none;
+}
+
+h1{
+	color: #D60210;
+	text-align: center;
+}
+body{
+	background-color: #BEB4D6;
+}
+
+a:hover{
+	border-bottom-width: 4px;
+	border-bottom-color: #A188C2; 
+	border-bottom-style: dotted;
+	background-color: #99B7D9;
+	color: #7288A1;
+}
+
+.active{
+	background-color:  #99B7D9;
+	color: #7288A1;
+}
+ul{
+	 list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
